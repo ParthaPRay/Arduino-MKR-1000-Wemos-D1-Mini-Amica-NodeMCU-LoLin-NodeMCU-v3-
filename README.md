@@ -39,7 +39,7 @@ Load the wifi code
 
 ![image](https://github.com/user-attachments/assets/7dc318cb-e42d-448d-86b0-2a1085f0b495)
 
-# LoLin NodeMCU v3
+# LoLin NodeMCU v3 coding by Arduino IDE
 
 ![61oLVn4fjEL _AC_UF350,350_QL80_](https://github.com/user-attachments/assets/5072f7a8-ad9e-4025-9258-fd008d4f383d)
 
@@ -52,5 +52,19 @@ Load the wifi code
 
 ![image](https://github.com/user-attachments/assets/86ed96f8-a8d8-494e-ba79-890ddd1214cf)
 
+
+
+# ESP8266MOD Generic coding by Arduino IDE
+
+![image](https://github.com/user-attachments/assets/2ddb9495-9a60-4178-b3bb-6211b7891d65)
+
+
+![image](https://github.com/user-attachments/assets/2d1f0967-a218-4bcd-928a-32223aba7681)
+
+Select Appropriate Port
+
+Load the wifi code
+
+![image](https://github.com/user-attachments/assets/d702019e-fb80-406a-b267-3b87ae68b5cc)
 
 

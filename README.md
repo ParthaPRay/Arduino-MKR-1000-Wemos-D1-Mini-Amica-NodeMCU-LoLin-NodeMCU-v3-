@@ -39,5 +39,18 @@ Load the wifi code
 
 ![image](https://github.com/user-attachments/assets/7dc318cb-e42d-448d-86b0-2a1085f0b495)
 
+# LoLin NodeMCU v3
+
+![61oLVn4fjEL _AC_UF350,350_QL80_](https://github.com/user-attachments/assets/5072f7a8-ad9e-4025-9258-fd008d4f383d)
+
+![image](https://github.com/user-attachments/assets/3ffdc941-c200-4ce7-81a5-8fa002f57b75)
+
+Select Appropriate Port
+
+
+Load the wifi code
+
+![image](https://github.com/user-attachments/assets/86ed96f8-a8d8-494e-ba79-890ddd1214cf)
+
 
 

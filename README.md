@@ -54,6 +54,20 @@ Load the wifi code
 
 
 
+# Amica NodeMCU coding by Arduino IDE
+
+![image](https://github.com/user-attachments/assets/440a4f90-47ab-4b14-a96c-03c8b44c0d2a)
+
+
+![image](https://github.com/user-attachments/assets/2d1f0967-a218-4bcd-928a-32223aba7681)
+
+Select Appropriate Port
+
+Load the wifi code
+
+![image](https://github.com/user-attachments/assets/d702019e-fb80-406a-b267-3b87ae68b5cc)
+
+
 # ESP8266MOD Generic coding by Arduino IDE
 
 ![image](https://github.com/user-attachments/assets/2ddb9495-9a60-4178-b3bb-6211b7891d65)

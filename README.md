@@ -2,6 +2,8 @@
 
 This repo shows the coding of Arduino MKR 1000, Wemos D1 Mini, Amica NodeMCU, LoLin NodeMCU v3 Programming with Arduino IDE.
 
+# Check for GOOD QUALITY USB Cable
+
 # Arduino IDE 2.3.2
 
 Use Arduino IDE 2.3.2 or later

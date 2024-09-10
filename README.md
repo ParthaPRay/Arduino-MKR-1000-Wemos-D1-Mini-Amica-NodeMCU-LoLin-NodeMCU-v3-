@@ -84,4 +84,17 @@ Load the wifi code
 
 ![image](https://github.com/user-attachments/assets/d702019e-fb80-406a-b267-3b87ae68b5cc)
 
+# ESP32-WROOM-32E (ESP32_DevKit_V4)
+
+![image](https://github.com/user-attachments/assets/45b1ada9-319b-4f9a-8419-e05b98832bef)
+
+
+![image](https://github.com/user-attachments/assets/81a7d435-071d-4f56-88ee-1f3ad0a82907)
+
+Select Appropriate Port
+
+Load the wifi code
+
+![image](https://github.com/user-attachments/assets/d5deebc3-b3b4-4d3c-abc5-b32f5f1634ec)
+
 
